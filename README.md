@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankar Murugesan</h1>
-<h3 align="center">Python,Sql,Plsql,ML,DL,Team Supervision ,Training and mentoring,PowerBI and Streamlit</h3>
+<h3 align="center">Python,Sql,Plsql,Machine Learning,Deep Learning,PowerBI,Streamlit,Team Supervision & Training and mentoring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarmurugesan&label=Profile%20views&color=0e75b6&style=flat" alt="shankarmurugesan" /> </p>
 

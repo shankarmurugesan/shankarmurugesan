@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankar Murugesan</h1>
-<h3 align="center">Python Pandas & Numpy Sql & Plsql ML & DL EDA Data Engineering Predictive Modeling Pytorch & Tensorflow Team Supervision & Training and mentoring Selinium PowerBI Streamlit</h3>
+<h3 align="center">Python,Pandas,Numpy, Sql,Plsql,ML,DL,EDA,Data Engineering,Predictive Modeling,Pytorch,Tensorflow, Team Supervision ,Training and mentoring, Selinium ,PowerBI and Streamlit</h3>
 
 - 🔭 I’m currently working on [Data Science](https://github.com/shankarmurugesan)
 

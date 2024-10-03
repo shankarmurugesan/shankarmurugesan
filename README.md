@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on [Data Science](https://github.com/shankarmurugesan)
 
-- 🌱 I’m currently learning **Data Science**
-
 - 👯 I’m looking to collaborate on [Data Science](https://github.com/shankarmurugesan)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shankarmurugesan](https://github.com/shankarmurugesan)
-
-- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **vmshankar86@gmail.com**
 

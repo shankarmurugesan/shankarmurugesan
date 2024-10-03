@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shankar Murugesan</h1>
-<h3 align="center">Python Pandas & Numpy Sql & Plsql ML & DL EDA Data Engineering Predictive Modeling Pytorch & Tensorflow Team Supervision & Training and mentoring Selinium PowerBI Streamlit</h3>
+<h3 align="center">Python,Pandas,Numpy, Sql,Plsql,ML,DL,EDA,Data Engineering,Predictive Modeling,Pytorch,Tensorflow, Team Supervision ,Training and mentoring, Selinium ,PowerBI and Streamlit</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarmurugesan&label=Profile%20views&color=0e75b6&style=flat" alt="shankarmurugesan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankarmurugesan" alt="shankarmurugesan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Data Science](https://github.com/shankarmurugesan)
 
